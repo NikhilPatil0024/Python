@@ -12,4 +12,4 @@ num2 = 11.1
 demo = num+num2
 print(demo, type(demo))
 
-# Similary it all works for other data types as well.
+# Similary it all works for other data types as well in method format.
